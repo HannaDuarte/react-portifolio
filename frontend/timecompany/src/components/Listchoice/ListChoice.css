@@ -1,0 +1,21 @@
+ .list {
+    margin: 24px 0;
+
+}
+
+.list label {
+    display: block;
+    margin-bottom: 8px;
+   font-size: 20px;
+   font-weight: 800;
+
+}
+
+.list select{
+    background-color: #ffff;
+    box-shadow: 10px 30px rgba(0,0,0,0.04);
+    width: 100%;
+    padding: 20px;
+    font-size: 20px;
+    box-sizing: border-box;
+}

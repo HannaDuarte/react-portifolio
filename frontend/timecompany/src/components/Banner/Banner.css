@@ -1,0 +1,11 @@
+.banner {
+    background-color: pink;
+    text-align: center;
+    
+
+}
+
+
+.banner img{
+    max-width: 1000px;
+}

@@ -1,0 +1,24 @@
+.text {
+    margin: 24px 0;
+    font-weight: 800;
+
+}
+
+.text label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 20px;
+    border: none;
+    font-weight: 800px;
+
+}
+
+.text input{
+    background-color: #ffff;
+    box-shadow: 10px 30px rgba(0,0,0,0.04);
+    width: 100%;
+    padding: 24px;
+    font-size: 20px;
+    box-sizing: border-box;
+    border: none
+}
